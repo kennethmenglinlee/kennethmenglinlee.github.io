@@ -47,6 +47,7 @@ close(CON)
 <ol>
 <li class="list"><b>Lee, K. M.</b>, Forbes, A.B., Kasza, J., Copas, A., Kahan, B.C., Young, P.J., Harhay, M.O., Li, F. What is estimated in cluster randomized crossover trials with informative sizes? — A survey of estimands and common estimators. arXiv preprint arXiv:2505.00925. (under review) [https://doi.org/10.48550/arXiv.2505.00925]</li>
 
+<li class="list"><b>Lee, K. M.</b>, Fang, X., Li, F., Harhay, M.O. Who's Winning? Clarifying Estimands Based on Win Statistics in Cluster Randomized Trials. arXiv preprint arXiv:2602.11403. (under review) [https://doi.org/10.48550/arXiv.2602.11403]</li>
 </ol>
 
 <style>
