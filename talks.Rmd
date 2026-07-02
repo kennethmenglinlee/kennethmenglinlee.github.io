@@ -13,6 +13,11 @@ close(CON)
 ## Invited Talks:
 ##### Speaker(s) are <b>bolded</b>
 <ol>
+
+<li class="list"><b>Lee, K. M.</b> (2026, May). Who’s Winning? Clarifying Estimands Based on Win Statistics in Cluster Randomized Trials. Invited oral presentation at the 39th New England Statistics Symposium, Storrs, CT.</li>
+
+<li class="list"><b>Lee, K. M.</b> (2026, January). The dual time zone problem: Solution to a Common Complication in the Analyses of Cluster Randomized Trials. Invited oral presentation at the Stanford University Quantitative Sciences Unit, Palo Alto, CA.</li>
+
 <li class="list"><b>Lee, K. M.</b> (2025, December). Fixing cluster trials & the dual time zone problem: Solutions to Common Complications in the Analyses of Cluster Randomized Trials. Invited oral presentation at the University of Pennsylvania CCEB DBEI Epidemiology Seminar, Philadelphia, PA.</li>
 
 <li class="list"><b>Lee, K. M.</b> (2025, March). Mixed up Mixed Effects: Estimands, Estimators, and Informative Sizes in Cluster Randomized Trials. Invited oral presentation at the University of Pennsylvania CCEB DBEI Epidemiology Seminar, Philadelphia, PA.</li>
@@ -31,6 +36,8 @@ close(CON)
 ## Submitted Talks:
 ##### Speaker(s) are <b>bolded</b>
 <ol>
+<li class="list"><b>Lee, K. M.</b> (2026, May). Fixing Cluster Trials: Robust asymptotic inference for fixed-effects regression in longitudinal cluster designs. Submitted oral presentation at the Fifth International Conference on Stepped Wedge Trial Design, York, England.</li>
+
 <li class="list"><b>Lee, K. M.</b> (2025, November). The dual time zone problem: Analysis of Stepped-Wedge Cluster Randomized Trials When Treatment Effects Vary by Exposure Time or Calendar Time. Submitted oral presentation at the 11th Annual Meeting on Current Developments in Cluster Randomised Trials & Stepped Wedge Designs, Birmingham, England.</li>
 
 <li class="list"><b>Lee, K. M.</b> (2024, November). Parallel cluster randomized trials with a baseline period: Estimands, Estimators, and Informative Cluster Sizes. Submitted oral presentation at the 10th Annual Meeting on Current Developments in Cluster Randomised Trials & Stepped Wedge Designs, Birmingham, England.</li>
