@@ -10,7 +10,8 @@ output:
 ```{r setup, include=FALSE, echo=FALSE}
 # Create header.html
 CON <- file("header.html")
-writeLines('<meta name="google-site-verification" content="ZEjpamFYw-aQSqO9ZI_LMwm6XR-th-3UPa0Aa2ugT6E" />', CON)
+# writeLines('<meta name="google-site-verification" content="ZEjpamFYw-aQSqO9ZI_LMwm6XR-th-3UPa0Aa2ugT6E" />', CON) # old Personal-Website one
+writeLines('<meta name="google-site-verification" content="5NCOgQfM107409yk80Ljk3pxlLnjVonjn9I-l9icHOI" />', CON)
 close(CON)
 
 CON <- file("style.css")

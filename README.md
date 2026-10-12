@@ -1,1 +1,1 @@
-Click <a href="https://kennethmenglinlee.github.io/Personal-Website/">Here</a> for website.
+Click <a href="https://kennethmenglinlee.github.io/">Here</a> for website.
