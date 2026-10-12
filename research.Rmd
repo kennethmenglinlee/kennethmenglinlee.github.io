@@ -13,6 +13,8 @@ close(CON)
 <h2>Publications:</h2>
 <h3><u>Statistical Methods:</u></h3>
 <ol>
+<li class="list"><b>Lee, K. M.</b>, Forbes, A. B., Kasza, J., Copas, A., Kahan, B. C., Young, P. J., ... & Li, F. (2026). What is estimated in cluster randomized crossover trials with informative sizes? A survey of estimands and common estimators. <i>Statistical Methods in Medical Research</i>, <i>35(9)</i>, 1980-2000. [https://doi.org/10.1177/09622802261470087]</li>
+
 <li class="list"><b>Lee, K. M.</b>, Turner, E. L., & Kenny, A. (2025). Analysis of Stepped‐Wedge Cluster Randomized Trials When Treatment Effects Vary by Exposure Time or Calendar Time. <i>Statistics in Medicine</i>, <i>44</i>(20-22), e70256. [https://doi.org/10.1002/sim.70256]</li>
 
 <li class="list"><b>Lee, K. M.</b>, & Li, F. (2025). How Should Parallel Cluster Randomized Trials With a Baseline Period be Analyzed? — A Survey of Estimands and Common Estimators. <i>Biometrical Journal</i>, <i>67</i>(3), e70052. [https://doi.org/10.1002/bimj.70052]</li>
@@ -30,6 +32,9 @@ close(CON)
 
 <h3><u>Collaborative:</u></h3>
 <ol>
+
+<li class="list">Janke, A. T., Haimovich, A. D., Cussen, M., Fung, C. M., Samuels-Kalow, M. E., Baymon, D. E., ..., <b>Lee, K. M.</b>, ... & Friedman, A. B. (2026). Time to Inpatient Management for Boarding Emergency Department Patients. <i>JAMA</i>. [https://doi.org/10.1001/jama.2026.13302] </li>
+
 <li class="list">Courtright, K. R., …, <b>Lee, K. M.</b>, …, Halpern, S. D. (2025) Nudging clinicians to promote serious illness communication for critically ill patients: a pragmatic cluster randomized trial. <i>JAMA Internal Medicine</i>, <i>185</i>(5), 510-520. [https://doi.org/10.1001/jamainternmed.2025.0090]</li>
 
 <li class="list">Arndtsen, C., Ballon, J., Blackshear, K., Corbett, C. B., <b>Lee, K.</b>, Peyer, J., ... & Duncan, K. A. (2019). Atypical gene expression of neuroinflammatory and steroid related genes following injury in the photoperiodic Japanese quail. <i>General and comparative endocrinology</i>, <i>288</i>, 113361-113361. [https://doi.org/10.1016/j.ygcen.2019.113361]</li>
@@ -45,9 +50,9 @@ close(CON)
 <hr>
 <h2>Forthcoming / Pre-prints:</h2>
 <ol>
-<li class="list"><b>Lee, K. M.</b>, & Li, F. Fixed-Effects Models for Causal Inference in Longitudinal Cluster Randomized and Quasi-Experimental Trials. arXiv preprint arXiv:2604.07756. (under review) [https://doi.org/10.48550/arXiv.2604.07756]
+<li class="list"><b>Lee, K. M.</b>, Harhay, M. O., & Li, F. Saturation in G: simple & robust causal inference in cluster randomized trials with informative cluster sizes. arXiv preprint arXiv:2608.28943. (under review) [https://doi.org/10.48550/arXiv.2608.28943]</li>
 
-<li class="list"><b>Lee, K. M.</b>, Forbes, A.B., Kasza, J., Copas, A., Kahan, B.C., Young, P.J., Harhay, M.O., Li, F. What is estimated in cluster randomized crossover trials with informative sizes? — A survey of estimands and common estimators. arXiv preprint arXiv:2505.00925. (under review) [https://doi.org/10.48550/arXiv.2505.00925]</li>
+<li class="list"><b>Lee, K. M.</b>, & Li, F. Fixed-Effects Models for Causal Inference in Longitudinal Cluster Randomized and Quasi-Experimental Trials. arXiv preprint arXiv:2604.07756. (under review) [https://doi.org/10.48550/arXiv.2604.07756]
 
 <li class="list"><b>Lee, K. M.</b>, Fang, X., Li, F., Harhay, M.O. Who's Winning? Clarifying Estimands Based on Win Statistics in Cluster Randomized Trials. arXiv preprint arXiv:2602.11403. (under review) [https://doi.org/10.48550/arXiv.2602.11403]</li>
 </ol>

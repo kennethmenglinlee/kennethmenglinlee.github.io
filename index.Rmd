@@ -22,7 +22,7 @@ close(CON)
 
 <p style="text-align:center;"><img src="files/photos/Photo 2.jpg" style="width:20%"></p>
 
-I'm an <b>Assistant Professor</b> at the <b>University of Pennsylvania</b> in the Department of Biostatistics, Epidemiology, & Informatics (DBEI) and working out of the <a/ href="https://dbei.med.upenn.edu/center-of-excellence/center-for-clinical-trials-innovation-ccti/">Center for Clinical Trials Innovation (CCTI)</a>. I previously completed my PhD in Biostatistics at Duke-NUS Medical School in Singapore.
+I'm an <b>Assistant Professor</b> of Epidemiology at the <b>University of Pennsylvania</b> in the Department of Biostatistics, Epidemiology, & Informatics (DBEI) and working out of the <a/ href="https://dbei.med.upenn.edu/center-of-excellence/center-for-clinical-trials-innovation-ccti/">Center for Clinical Trials Innovation (CCTI)</a>. I previously completed my PhD in Biostatistics at Duke-NUS Medical School in Singapore.
 
 I’m currently working on evaluating time-varying intervention effects, informative sizes, and unmeasured confounding in different Cluster Randomized Trial designs. I've also previously developed methods to control for bias in Self-Controlled Case Series.
 
